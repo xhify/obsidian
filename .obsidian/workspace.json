@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0cd371596233d557",
@@ -149,7 +150,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "51e714ffc596786b",
+  "active": "dd0924e27b1906c7",
   "lastOpenFiles": [
     "Home.md",
     "日记/日记模版.md",
