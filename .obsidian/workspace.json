@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "5c4c6f3737144da3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2596d36cc874354",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51e714ffc596786b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82e063c54cdf33c0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27f32a1ac4b4d2f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d407ca78444ecf44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ab0e9ffd153d8f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "359db2c8778a7f2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#动态COMS",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "823a316eb92cf2e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0cd371596233d557",
+    "type": "split",
+    "children": [
+      {
+        "id": "df70a35574a2e557",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "083ec9cc9e711f9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9456fa5c03abdaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2da73ab8b35accf8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1bcdb0311681f26d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd0924e27b1906c7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "82e063c54cdf33c0",
+  "lastOpenFiles": [
+    "Home.md",
+    "日记/日记模版.md",
+    "重点.md",
+    "模版",
+    "日记/未命名",
+    "日记/2024-03-31.md",
+    "渤海小吏 三百万粉视频.md",
+    "羽毛球机器人方案.md",
+    "英语语法.md",
+    "已经考完的课程/音乐欣赏.md",
+    "形近的英语单词.md",
+    "小饭的夜谈.md",
+    "嵌入式题目.md",
+    "未命名.canvas",
+    "计划表.md",
+    "光学测试技术作业.md",
+    "翻译练习.md",
+    "1126D057.png",
+    "Pasted image 20230922182053.png",
+    "附/Pasted image 20240117153254.png",
+    "附/Pasted image 20240117153238.png",
+    "附/Pasted image 20240117153033.png",
+    "附/Pasted image 20240117152947.png",
+    "附/Pasted image 20240117152930.png",
+    "附/Pasted image 20240117152219.png",
+    "附/Pasted image 20240117151518.png",
+    "附/Pasted image 20240115110518.png",
+    "附",
+    "ST3020学习.md",
+    "日记/2024-02-26.md",
+    "日记/2023-12-14.md",
+    "日记/2023-12-15.md",
+    "日记/2023-12-24.md",
+    "日记/2024-01-03.md",
+    "日记/2024-01-07.md",
+    "日记/2024-02-19.md",
+    "IPAD 电池.md",
+    "MATLAB.md",
+    "hello obsidian.md",
+    "FPGA/音频处理.md",
+    "Machine learning",
+    "已经考完的课程",
+    "已经考完的课程/集成电路",
+    "FPGA",
+    "日记",
+    "视频魔盒",
+    "视频"
+  ]
+}
