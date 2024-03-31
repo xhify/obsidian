@@ -11,26 +11,11 @@
             "id": "51e714ffc596786b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82e063c54cdf33c0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0cd371596233d557",
@@ -150,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 400.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +149,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82e063c54cdf33c0",
+  "active": "51e714ffc596786b",
   "lastOpenFiles": [
     "Home.md",
     "日记/日记模版.md",
