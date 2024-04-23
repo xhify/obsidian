@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9abfec2dcaf226e1",
+        "id": "8eef6336d4791329",
         "type": "tabs",
         "children": [
           {
-            "id": "c5394e1143bc9a9b",
+            "id": "c4cc7bdb9885dd6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "信诺达.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "759187ec0767e025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#动态COMS",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "信诺达.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "信诺达.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "信诺达.md"
+              }
             }
           },
           {
@@ -129,13 +149,22 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "f84b24e55a6c9b90",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 460.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,10 +179,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd0924e27b1906c7",
+  "active": "c4cc7bdb9885dd6a",
   "lastOpenFiles": [
+    "日记/2024-04-23.md",
+    "信诺达.md",
+    "未命名.md",
     "Home.md",
+    "日记/2024-04-04.md",
+    "日记/2024-04-17.md",
+    "日记/2024-04-16.md",
+    "ST3020学习.md",
+    "嵌入式题目.md",
+    "日记/2024-04-07.md",
+    "日记/2024-04-03.md",
+    "().md",
+    "日记/2024-04-02.md",
+    "日记/2024-04-01.md",
+    "模版/日记模版.md",
+    "未命名 1.md",
     "日记/日记模版.md",
+    "计划表.md",
     "重点.md",
     "模版",
     "日记/未命名",
@@ -164,11 +209,7 @@
     "已经考完的课程/音乐欣赏.md",
     "形近的英语单词.md",
     "小饭的夜谈.md",
-    "嵌入式题目.md",
     "未命名.canvas",
-    "计划表.md",
-    "光学测试技术作业.md",
-    "翻译练习.md",
     "1126D057.png",
     "Pasted image 20230922182053.png",
     "附/Pasted image 20240117153254.png",
@@ -180,18 +221,6 @@
     "附/Pasted image 20240117151518.png",
     "附/Pasted image 20240115110518.png",
     "附",
-    "ST3020学习.md",
-    "日记/2024-02-26.md",
-    "日记/2023-12-14.md",
-    "日记/2023-12-15.md",
-    "日记/2023-12-24.md",
-    "日记/2024-01-03.md",
-    "日记/2024-01-07.md",
-    "日记/2024-02-19.md",
-    "IPAD 电池.md",
-    "MATLAB.md",
-    "hello obsidian.md",
-    "FPGA/音频处理.md",
     "Machine learning",
     "已经考完的课程",
     "已经考完的课程/集成电路",

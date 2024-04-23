@@ -6,8 +6,9 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "file-explorer-note-count",
-  "obsidian-image-auto-upload-plugin",
   "obsidian-outliner",
   "templater-obsidian",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "calendar",
+  "obsidian-image-auto-upload-plugin"
 ]

@@ -1,1 +1,18 @@
-{}
+{
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageDown"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
+}
