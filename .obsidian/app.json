@@ -2,5 +2,12 @@
   "showLineNumber": true,
   "tabSize": 4,
   "attachmentFolderPath": "附",
-  "promptDelete": false
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
