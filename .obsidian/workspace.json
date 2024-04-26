@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "信诺达.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "信诺达.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "信诺达.md"
               }
             }
           },
@@ -180,13 +179,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "759187ec0767e025",
+  "active": "8f5f191d0c8267de",
   "lastOpenFiles": [
     "日记/2024-04-26.md",
+    "未命名.md",
     "信诺达.md",
     "Home.md",
     "日记/2024-04-24.md",
-    "未命名.md",
     "日记/2024-04-23.md",
     "日记/2024-04-04.md",
     "日记/2024-04-17.md",
