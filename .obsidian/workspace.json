@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-04-29.md",
+                "file": "日记/2024-05-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-04-29.md",
+                "file": "信诺达.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-04-29.md",
+                "file": "信诺达.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-04-29.md"
+                "file": "信诺达.md"
               }
             }
           },
@@ -192,10 +191,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c885c81efcb01f6",
+  "active": "8f5f191d0c8267de",
   "lastOpenFiles": [
-    "Home.md",
+    "日记/2024-05-02.md",
     "日记/2024-04-29.md",
+    "Home.md",
     "信诺达.md",
     "日记/2024-04-26.md",
     "未命名.md",
@@ -221,7 +221,6 @@
     "日记/2024-03-31.md",
     "渤海小吏 三百万粉视频.md",
     "羽毛球机器人方案.md",
-    "英语语法.md",
     "未命名.canvas",
     "1126D057.png",
     "Pasted image 20230922182053.png",
