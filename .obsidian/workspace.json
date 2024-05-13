@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a0852775bd701d1",
+        "id": "554391f5e3fa0523",
         "type": "tabs",
         "children": [
           {
-            "id": "3a650e8e50b958fe",
+            "id": "974965a24902de9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,10 +166,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a650e8e50b958fe",
+  "active": "974965a24902de9c",
   "lastOpenFiles": [
-    "日记/2024-05-11.md",
+    "日记/2024-05-13.md",
     "信诺达.md",
+    "日记/2024-05-11.md",
     "日记/2024-05-10.md",
     "日记/2024-05-09.md",
     "日记/2024-04-26.md",
@@ -194,7 +195,6 @@
     "日记/2024-04-17.md",
     "日记/2024-04-16.md",
     "嵌入式题目.md",
-    "日记/2024-04-07.md",
     "模版",
     "日记/未命名",
     "未命名.canvas",
