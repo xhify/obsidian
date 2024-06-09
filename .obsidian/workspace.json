@@ -20,41 +20,19 @@
             }
           },
           {
-            "id": "bc26a0a263e4c2c9",
+            "id": "df222e81135052b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模版/日记模版.md",
+                "file": "信诺达初赛.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b1ef01d1abec4f6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "如何阅读一本书.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20cf78101f1be897",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.2"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "信诺达初赛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "信诺达初赛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "信诺达初赛.md"
+              }
             }
           },
           {
@@ -197,13 +179,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20cf78101f1be897",
+  "active": "df222e81135052b0",
   "lastOpenFiles": [
-    "如何阅读一本书.md",
     "信诺达.md",
+    "信诺达初赛.md",
+    "模版/日记模版.md",
+    "如何阅读一本书.md",
+    "日记/2024-06-09.md",
     "日记/2024-06-08.md",
     "日记/2024-05-27.md",
-    "模版/日记模版.md",
     "光学测试技术.md",
     "未命名.md",
     "小饭的夜谈.md",
@@ -224,8 +208,6 @@
     "日记/2024-05-07.md",
     "IPAD 电池.md",
     "未来规划.md",
-    "MATLAB.md",
-    "ST3020学习.md",
     "1126D057.png",
     "模版",
     "日记/未命名",
