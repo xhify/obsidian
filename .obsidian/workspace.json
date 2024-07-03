@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信诺达初赛.md",
+                "file": "信诺达.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,13 +191,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4882a9b7698e29b2",
+  "active": "df222e81135052b0",
   "lastOpenFiles": [
+    "信诺达.md",
+    "信诺达初赛.md",
     "日记/2024-07-03.md",
     "个人陈述.md",
-    "信诺达初赛.md",
     "日记/2024-06-12.md",
-    "信诺达.md",
     "模版/日记模版.md",
     "如何阅读一本书.md",
     "日记/2024-06-09.md",
