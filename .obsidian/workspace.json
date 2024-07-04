@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "7d51bc7e9986a3ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2024-07-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4882a9b7698e29b2",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信诺达初赛.md",
+                "file": "日记/2024-07-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信诺达初赛.md",
+                "file": "日记/2024-07-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信诺达初赛.md"
+                "file": "日记/2024-07-04.md"
               }
             }
           },
@@ -191,10 +203,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "df222e81135052b0",
+  "active": "7d51bc7e9986a3ad",
   "lastOpenFiles": [
-    "信诺达.md",
+    "日记/2024-07-04.md",
     "信诺达初赛.md",
+    "信诺达.md",
     "日记/2024-07-03.md",
     "个人陈述.md",
     "日记/2024-06-12.md",
@@ -219,7 +232,6 @@
     "日记/2024-05-10.md",
     "日记/2024-05-09.md",
     "日记/2024-04-26.md",
-    "日记/2024-05-02.md",
     "1126D057.png",
     "模版",
     "日记/未命名",
@@ -235,10 +247,4 @@
     "附",
     "Machine learning",
     "已经考完的课程",
-    "已经考完的课程/集成电路",
-    "FPGA",
-    "日记",
-    "视频魔盒",
-    "视频"
-  ]
-}
+    "已经考完的课程/集成
