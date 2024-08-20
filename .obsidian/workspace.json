@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-07-04.md",
+                "file": "日记/2024-08-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9cc0b6c21c38fd15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2024-08-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-08-20.md",
+                "file": "日记/2024-08-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-08-20.md",
+                "file": "日记/2024-08-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-08-20.md"
+                "file": "日记/2024-08-02.md"
               }
             }
           },
@@ -215,34 +203,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9cc0b6c21c38fd15",
+  "active": "7d51bc7e9986a3ad",
   "lastOpenFiles": [
+    "日记/2024-08-16.md",
     "日记/2024-08-17.md",
     "日记/2024-08-20.md",
-    "日记/2024-08-16.md",
-    "未来规划.md",
-    "日记/2024-08-02.md",
-    "信诺达.md",
-    "日记/2024-07-12.md",
-    "信诺达初赛.md",
-    "日记/2024-07-04.md",
-    "日记/2024-07-03.md",
-    "个人陈述.md",
-    "日记/2024-06-12.md",
-    "模版/日记模版.md",
+    "形近的英语单词.md",
+    "羽毛球机器人方案.md",
+    "英语语法.md",
+    "重点.md",
+    "hello obsidian.md",
+    "Home.md",
+    "IPAD 电池.md",
+    "MATLAB.md",
+    "Python.md",
+    "README.md",
+    "ST3020学习.md",
+    "嵌入式题目.md",
     "如何阅读一本书.md",
-    "日记/2024-06-09.md",
-    "日记/2024-06-08.md",
-    "日记/2024-05-27.md",
-    "光学测试技术.md",
-    "未命名.md",
-    "小饭的夜谈.md",
-    "回译.md",
-    "光学测试技术作业.md",
-    "第三章 作业.md",
-    "渤海小吏 三百万粉视频.md",
-    "日记/2024-06-07.md",
     "光学与光电子实验.md",
+    "光学测试技术作业.md",
+    "光学测试技术.md",
+    "翻译练习.md",
+    "渤海小吏 三百万粉视频.md",
+    "1 The wave function.md",
+    "().md",
+    "日记/2024-07-04.md",
+    "日记/2024-07-12.md",
+    "日记/2024-08-02.md",
     "未命名.canvas",
     "1126D057.png",
     "模版",
