@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-08-17.md",
+                "file": "日记/2024-08-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-08-17.md",
+                "file": "日记/2024-08-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-08-17.md",
+                "file": "日记/2024-08-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-08-17.md"
+                "file": "日记/2024-08-20.md"
               }
             }
           },
@@ -217,8 +217,9 @@
   },
   "active": "9cc0b6c21c38fd15",
   "lastOpenFiles": [
-    "日记/2024-08-16.md",
     "日记/2024-08-17.md",
+    "日记/2024-08-20.md",
+    "日记/2024-08-16.md",
     "未来规划.md",
     "日记/2024-08-02.md",
     "信诺达.md",
@@ -243,7 +244,6 @@
     "日记/2024-06-07.md",
     "光学与光电子实验.md",
     "未命名.canvas",
-    "日记/2024-05-15.md",
     "1126D057.png",
     "模版",
     "日记/未命名",
