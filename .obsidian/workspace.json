@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "日记/2024-09-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "日记/2024-09-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "日记/2024-09-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "日记/2024-09-09.md"
               }
             }
           },
@@ -177,11 +177,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd0924e27b1906c7",
+  "active": "2049ee3e13829ad7",
   "lastOpenFiles": [
     "日记/2024-08-20.md",
+    "日记/2024-09-09.md",
     "日记/2024-08-17.md",
     "日记/2024-08-16.md",
+    "Home.md",
     "日记/2024-08-02.md",
     "日记/2024-07-12.md",
     "日记/2024-07-04.md",
@@ -193,8 +195,6 @@
     "信诺达初赛.md",
     "个人陈述.md",
     "信诺达.md",
-    "Home.md",
-    "日记/2024-09-09.md",
     "简历.md",
     "实习日志.md",
     "回译.md",
