@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-09-09.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-09-09.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-09-09.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-09-09.md"
+                "file": "Home.md"
               }
             }
           },
@@ -179,8 +179,14 @@
   },
   "active": "2049ee3e13829ad7",
   "lastOpenFiles": [
-    "日记/2024-08-20.md",
+    "hello obsidian.md",
+    "模版/日记模版.md",
+    "().md",
+    "渤海小吏 三百万粉视频.md",
+    "翻译练习.md",
+    "日记/2024-09-13.md",
     "日记/2024-09-09.md",
+    "日记/2024-08-20.md",
     "日记/2024-08-17.md",
     "日记/2024-08-16.md",
     "Home.md",
@@ -199,12 +205,6 @@
     "实习日志.md",
     "回译.md",
     "光学与光电子实验.md",
-    "光学系统设计.md",
-    "光学测试技术作业.md",
-    "光学测试技术.md",
-    "翻译练习.md",
-    "第三章 作业.md",
-    "渤海小吏 三百万粉视频.md",
     "未命名.canvas",
     "1126D057.png",
     "模版",
