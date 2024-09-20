@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "22d823d7eb324f83",
+        "id": "ed2445b278f01c7f",
         "type": "tabs",
         "children": [
           {
-            "id": "4eb5805ba253f3de",
+            "id": "35cfc86a60b3919b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大学生活/ST3020学习.md",
+                "file": "六年之约/一切的起点.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ab4184693c3fe911",
+            "id": "4ebe10b22443205b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-09-20.md",
+                "file": "《从0到1》.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-09-20.md",
+                "file": "《从0到1》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-09-20.md",
+                "file": "《从0到1》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-09-20.md"
+                "file": "《从0到1》.md"
               }
             }
           },
@@ -179,12 +179,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ab4184693c3fe911",
+  "active": "4ebe10b22443205b",
   "lastOpenFiles": [
     "六年之约/一切的起点.md",
+    "《从0到1》.md",
+    "大学生活/ST3020学习.md",
     "日记/2024-09-20.md",
     "六年之约",
-    "大学生活/ST3020学习.md",
     "大学生活/MATLAB.md",
     "大学生活/IPAD 电池.md",
     "大学生活/小饭的夜谈.md",
@@ -209,7 +210,6 @@
     "大学生活/未命名.canvas",
     "大学生活/视障人士辅助取物系统.md",
     "大学生活/未来规划.md",
-    "日记/2024-09-17.md",
     "1126D057.png",
     "模版",
     "日记/未命名",
