@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "六年之约/一切的起点.md",
+                "file": "日记/2024-09-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "六年之约/一切的起点.md",
+                "file": "日记/2024-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "六年之约/一切的起点.md",
+                "file": "日记/2024-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "六年之约/一切的起点.md"
+                "file": "日记/2024-09-20.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   "active": "ab4184693c3fe911",
   "lastOpenFiles": [
     "六年之约/一切的起点.md",
+    "日记/2024-09-20.md",
     "六年之约",
     "大学生活/ST3020学习.md",
     "大学生活/MATLAB.md",
