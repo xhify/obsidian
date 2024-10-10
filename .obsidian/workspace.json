@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-10-04.md",
+                "file": "六年之约/长期目标.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-10-04.md",
+                "file": "六年之约/长期目标.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-10-04.md",
+                "file": "六年之约/长期目标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-10-04.md"
+                "file": "六年之约/长期目标.md"
               }
             }
           },
@@ -181,14 +181,19 @@
   },
   "active": "4ebe10b22443205b",
   "lastOpenFiles": [
-    "《从0到1》.md",
+    "大学生活/ST3020学习.md",
+    "六年之约/长期目标.md",
+    "视频/如何成为一个很厉害的人？这个视频将会改变你的一生.md",
+    "视频/Larry的语法课.md",
+    "视频/larry关于预制菜的评价.md",
+    "日记/2024-10-10.md",
     "日记/2024-10-04.md",
+    "《从0到1》.md",
     "日记/2024-09-29.md",
     "六年之约/自己的优点和缺点.md",
     "六年之约/一切的起点.md",
     "日记/2024-09-23.md",
     "大学生活/1 The wave function.md",
-    "大学生活/ST3020学习.md",
     "日记/2024-09-20.md",
     "六年之约",
     "大学生活/MATLAB.md",
@@ -204,11 +209,6 @@
     "大学生活/个人陈述.md",
     "大学生活/翻译练习.md",
     "大学生活/第三章 作业.md",
-    "大学生活/渤海小吏 三百万粉视频.md",
-    "Machine learning/Introduction.md",
-    "().md",
-    "大学生活/面试问题.md",
-    "大学生活/羽毛球机器人方案.md",
     "大学生活/未命名.canvas",
     "1126D057.png",
     "模版",
